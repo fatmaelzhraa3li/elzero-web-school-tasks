@@ -1,0 +1,68 @@
+body{
+  background-color: #EEF1FF; 
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-size: x-large; 
+  margin: 15px; 
+  padding: 15px;
+}
+header{
+  transition:0.5s
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large; 
+  text-decoration: none;
+}
+.navbar{
+  background: #7695FF; 
+}
+.navbar-list{
+  list-style: none; 
+}
+.navbar-item{
+  display: inline-block;
+  height: 50px; 
+  width: 12rem; 
+  line-height: 50px; 
+  text-align: center;
+}
+.navbar-link{
+  text-decoration: none; 
+  color: black;
+  display: block;
+}
+.navbar-item:hover{
+  background-color: #D2E0FB;
+  color: #050C9C;
+  transition: 0.5s; 
+}
+.one{
+  background-image: url(jpg/book.jpg); 
+  background-size: cover; 
+  padding: 25px;
+  color: #EEF1FF; 
+}
+.one-h1{
+  color: #FFF9D0;
+}
+.Novels{
+  background-color: #9DBDFF; 
+  padding: 15px;
+}
+.Psychology{
+  background-color: #9DBDFF; 
+  padding: 15px;
+}
+h2{
+  color: #050C9C;
+}
+button{
+  font-size: 30px; 
+  background-color: #0F67B1; 
+  color: #D2E0FB;
+  border: 2px solid #050C9C;
+  display: inline-block;
+}
+button:hover{
+  background-color: #D2E0FB; 
+  color: #050C9C;
+  transition: 0.5s; 
+}
