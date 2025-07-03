@@ -8,7 +8,7 @@ The video shows how the website looks:
 - Clear layout with pictures and text
 
 click here to watch the video: 
-https://github.com/fatmaelzhraa562/my-first-project-/raw/691f91812063329713d0cfc32d6f68539b656592/knowledge%20library%20website.mp4
+https://github.com/fatmaelzhraa3li/elzero-web-school-tasks/raw/691f91812063329713d0cfc32d6f68539b656592/knowledge%20library%20website.mp4
 
 It's a small project to learn and practice front-end design.
 
